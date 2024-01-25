@@ -2,7 +2,6 @@
 - 👀 I’m interested in CODING, GAMING, 
 - 🌱 I’m currently learning ARTFICIAL INTELLIGENCE WITH MACHINE LEARNING
 - 📫 How to reach me varshneyhari21@gmail.com
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harivarshney&hide=contribs,prs)\
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harivarshney&hide_progress=true)
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harivarshney&show_icons=true&theme=radical)
   
