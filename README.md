@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hari Varshney</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harivarshney&label=Profile%20views&color=0e75b6&style=flat" alt="harivarshney" /> </p>
 
 - 🌱 I’m currently learning **AI,ML**
