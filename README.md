@@ -1,4 +1,4 @@
-![Untitled design (1)](https://github.com/harivarshney/weather-app/assets/152633609/f1adb516-d4a7-4b26-8e11-16cff174f122)
+![Hari varshney](https://github.com/user-attachments/assets/0ac1dcf5-841a-4c72-971f-58a0819e2c6b)
 
 <h1 align="center">Hi 👋, I'm Hari Varshney</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
