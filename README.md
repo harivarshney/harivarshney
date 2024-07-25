@@ -1,4 +1,4 @@
-![Hari varshney](https://github.com/user-attachments/assets/0ac1dcf5-841a-4c72-971f-58a0819e2c6b)
+![Hari varshney](https://github.com/user-attachments/assets/252ffdf2-a8dc-47c5-b6b4-0d8f58400218)
 
 <h1 align="center">Hi 👋, I'm Hari Varshney</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
