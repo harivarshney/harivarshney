@@ -6,82 +6,129 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harivarshney&label=Profile%20views&color=0e75b6&style=flat" alt="harivarshney" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fharivarshney&style=flat&logo=github" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=harivarshney&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fharivarshney&style=flat&logo=github" alt="Followers" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎓 Final-year **B.Tech, AI/ML & Data Science** @ GGSIPU (Graduating May 2027)
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning @ GGSIPU (2023–2027)
 - 🧩 Deep-diving into **RAG systems, LLM engineering, and GPU optimization**
-- 👯 Mentored 50+ students as AI/ML Lead @ Kritrim Dhi and GirlScript Summer of Code mentor
-- 🏆 3× hackathon winner across 5 competitions
-- 💬 Ask me about **RAG pipelines, PyTorch, LangChain, FastAPI, or LLM apps**
+- 👯 Mentored **50+ students** as AI/ML Lead @ Kritrim Dhi and Mentor @ GirlScript Summer of Code
+- 🏆 3× Hackathon Winner across 5 national hackathons
+- 💬 Ask me about **LLMs, RAG, PyTorch, LangChain, FastAPI, and AI Agents**
 - 📫 Reach me at **varshneyhari21@gmail.com**
-- ⚡ Fun fact: when I'm not debugging, I'm probably coloring mandalas or gaming
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,js,html,css,cpp,git,docker,postgres,vscode" />
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 </p>
 
-**AI/ML:** PyTorch · LangChain · RAG Systems · Whisper · CUDA · Model Quantization
-**Backend/Web:** FastAPI · React · REST APIs
-**Tools:** Git · Docker · PostgreSQL · n8n
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+`PyTorch` • `LangChain` • `RAG Systems` • `OpenAI API` • `Whisper AI` • `LLMs` • `Prompt Engineering` • `CUDA` • `Model Quantization`
+
+### ⚙️ Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker" />
+</p>
+
+`FastAPI` • `REST APIs` • `PostgreSQL`
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode,github" />
+</p>
+
+`Git` • `GitHub` • `Docker` • `VS Code` • `n8n`
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harivarshney&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harivarshney&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://streak-stats.demolab.com?user=harivarshney&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harivarshney&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harivarshney&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
----
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-**🎙️ DualMind**
-AI content processor using OpenAI Whisper for speech transcription and LangChain for semantic search over documents. Built with PyQt5 and PyPDF2.
+### 🎙️ DualMind
+
+AI content processor using **OpenAI Whisper** for speech transcription and **LangChain** for semantic search over documents.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Whisper](https://img.shields.io/badge/OpenAI-Whisper-412991?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=flat)
+![PyPDF2](https://img.shields.io/badge/PyPDF2-FF6F00?style=flat)
+
+<p align="center">
+<a href="https://github.com/harivarshney/DualMind">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-**💡Guided Learning Ai**
-Custom multi-agent AI system built from scratch in Python/FastAPI with 5 specialized agents for problem analysis, concept explanation, and guided instruction using structured LLM outputs.
+### 💡 Guided Learning AI
+
+Custom **multi-agent AI system** built in Python/FastAPI with **5 specialized AI agents** for structured LLM reasoning and guided learning.
+
+**Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat)
+![LLM](https://img.shields.io/badge/Multi--Agent-LLMs-blue?style=flat)
+
+<p align="center">
+<a href="https://github.com/harivarshney/guided_learning_ai">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/hari2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari2005" height="30" width="40" /></a>
-<a href="https://kaggle.com/harivarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harivarshney" height="30" width="40" /></a>
-<a href="https://instagram.com/varshney21hari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varshney21hari" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/varshneyhari21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varshneyhari21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hari2005"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+<a href="https://kaggle.com/harivarshney"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a>
+<a href="https://instagram.com/varshney21hari"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
+<a href="https://www.hackerrank.com/varshneyhari21"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a>
 </p>
 
 ---
 
-<p align="center"><i>Building in public, learning out loud. 🚀</i></p>
+<h3 align="center">
+Turning ideas into intelligent applications, one commit at a time. 🚀
+</h3>
