@@ -102,7 +102,7 @@ Custom **multi-agent AI system** built in Python/FastAPI with **5 specialized AI
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat)
+![Grok](https://img.shields.io/badge/Grok-xAI-black?style=flat)
 ![LLM](https://img.shields.io/badge/Multi--Agent-LLMs-blue?style=flat)
 
 <p align="center">
